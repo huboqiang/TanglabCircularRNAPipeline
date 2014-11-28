@@ -11,5 +11,5 @@ The following software were used:
 * [CIRCExplorer](http:////github.com/Yanglab/CIRCexplorer/)
 Running:
 ```bash
-  python run\_cirRNA.py [options] sample\_lists 
+  python run_cirRNA.py [options] sample_lists 
 ```
